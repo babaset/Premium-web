@@ -1,0 +1,30 @@
+﻿body
+{
+}
+
+.btn-Contact:hover{
+    color:blue;
+    background-color:transparent;
+   
+
+}
+
+.main_Home {
+    background-image: image("image/Mii.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+.main_Home_intro{
+    justify-items:center;
+}
+
+.main_Home_intro h2{
+    color:blue;
+}
+.main_Home_intro p {
+
+    color:black;
+
+}
