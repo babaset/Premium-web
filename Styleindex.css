@@ -2,29 +2,61 @@
 {
 }
 
-.btn-Contact:hover{
-    color:blue;
-    background-color:transparent;
-   
-
+#contact:hover {
+    color: blue;
+    background-color: transparent;
 }
-
-.main_Home {
-    background-image: image("image/Mii.png");
+#posation_bottom:hover {
+    color: blue;
+    background-color: transparent;
+}
+#link:hover {
+    color: blue !important;
+}
+#main_Home {
+    background-image: url("image/Mii.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     opacity: 0.8;
+    width: 500px;
+    height: 500px;
 }
 .main_Home_intro{
     justify-items:center;
+    position:absolute;
+   
+    left:200px;
+    top:300px;
+   
 }
 
-.main_Home_intro h2{
-    color:blue;
+    .main_Home_intro h2 {
+        color: darkblue;
+        width: 500px;
+        font-size: 60px;
+        text-align: center;
+        font-family: sans serif;
+    }
+    .main_Home_intro p {
+        color: black;
+        width: 450px;
+        text-align: center;
+        font-family: 'Barlow', sans-serif;
+        font-size: 20px;
+    }
+#posation_bottom{
+    position:absolute;
+    left:200px;
 }
-.main_Home_intro p {
-
-    color:black;
-
+#section-learn {
+    background-color: #fce19e;
+    height:150px;
+    padding-top:50px;
+    
+}
+#section-learn h1 {
+   
+    color: darkblue;
+    
 }
