@@ -1,0 +1,98 @@
+﻿body
+{
+}
+
+#contact:hover {
+    color: blue;
+    background-color: transparent;
+}
+#posation_bottom:hover {
+    color: blue;
+    background-color: transparent;
+}
+#link:hover {
+    color: blue !important;
+}
+#main_Home {
+    /*background-image: url("image/index08.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;*/
+    /*opacity: 0.8;*/
+    height: 500px;
+}
+.main_Home_intro{
+    justify-items:center;
+    position:absolute;
+   
+    left:15%;
+    top:40%;
+   
+}
+
+    .main_Home_intro h1 {
+        color: darkblue;
+        width: 500px;
+        font-size: 350%;
+        text-align: center;
+        font-family: sans serif;
+    }
+    .main_Home_intro p {
+        color: black;
+        width: 450px;
+        text-align: center;
+        font-family: 'Barlow', sans-serif;
+        font-size: 120%;
+    }
+#posation_bottom{
+    position:absolute;
+    left:200px;
+}
+#section-learn {
+    background-color: #fce19e;
+    height:150px;
+    padding-top:50px;
+    
+}
+#section-learn h1 {
+   
+    color: darkblue;
+    
+}
+#section_photo {
+   padding-top: 3%;
+    color: darkblue;
+    background-color:#fff7e3;
+    height:550px;
+
+  
+}
+#posation_bottom2{
+    margin-top:3%;
+}
+#posation_bottom2:hover {
+    color: blue;
+    background-color: transparent;
+}
+#photo02 {
+    padding-left: 5%;
+    padding-top: 5%;
+}
+<<<<<<< HEAD
+
+#change{
+    justify-items:center;
+    align-items:center;
+
+=======
+#photo01 {
+    margin-top: 7%;
+}
+#text01 {
+    padding: 13%;
+}
+#text01 h6 {
+    text-align:left;
+    margin-left:2%;
+>>>>>>> 6afc1ae33f21a1ac80de24314cb84827733fe856
+}
