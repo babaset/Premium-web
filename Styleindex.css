@@ -14,12 +14,11 @@
     color: blue !important;
 }
 #main_Home {
-    background-image: url("image/Mii.png");
+    /*background-image: url("image/index08.jpg");
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    opacity: 0.8;
-    width: 500px;
+    background-repeat: repeat;
+    background-size: contain;*/
+    /*opacity: 0.8;*/
     height: 500px;
 }
 .main_Home_intro{
@@ -27,7 +26,7 @@
     position:absolute;
    
     left:15%;
-    top:30%;
+    top:40%;
    
 }
 
@@ -64,7 +63,7 @@
    padding-top: 3%;
     color: darkblue;
     background-color:#fff7e3;
-    height:500px;
+    height:550px;
 
   
 }
@@ -75,8 +74,17 @@
     color: blue;
     background-color: transparent;
 }
-
-#photo01{
-    margin-top:7%;
-
+#photo02 {
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#photo01 {
+    margin-top: 7%;
+}
+#text01 {
+    padding: 13%;
+}
+#text01 h6 {
+    text-align:left;
+    margin-left:2%;
 }
