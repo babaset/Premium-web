@@ -1,0 +1,111 @@
+﻿.first {
+    text-align: center;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+.first h1{
+    color: blue;
+}
+.img_second img {
+    float: left;
+    position: absolute;
+    width: 740px;
+    height: 550px;
+}
+.second {
+    text-align: center;
+    padding-left: 868px;
+    padding-top: 94px;
+    padding-right: 149px
+}
+.second h3{
+    color:blue;
+}
+.second a{
+    float: left;
+   position:relative;
+    margin-left:5px;
+    padding:10px
+}
+.img_third img {
+    position: absolute;
+    right: -7px;
+    width: 974px;
+    bottom: -560px;
+    width: 730px;
+    height: 550px;
+}
+.third {
+    padding-left: 36px;
+    padding-right: 901px;
+    text-align: center;
+    padding-top: 296px;
+}
+.third h3{
+    color:blue;
+}
+.fourth {
+    background-color: #dfcdc2;
+    position: relative;
+    top: 151px;
+    width: 102%;
+    height: 351px;
+}
+    .fourth h1 {
+        text-align: center;
+        position: relative;
+        top: 39px;
+        left: -67px;
+        color: blue;
+        font-size: -webkit-xxx-large;
+    }
+.fourth h2{
+    color:blue;
+}
+.academic {
+    position: ABSOLUTE;
+    left: 1130px;
+    top: 130px;
+    text-align: center;
+}
+.college {
+    position: absolute;
+    left: 666px;
+    text-align: center;
+    top: 133px;
+}
+.exam {
+    position: absolute;
+    left: 326px;
+    text-align: center;
+    top: 132px;
+}
+.tutoring{
+    position: absolute;
+    text-align: center;
+    top: 132px;
+}
+.icons a{
+    color: black;
+}
+.icons {
+    position: absolute;
+    left: 1028px;
+    top: 620px;
+}
+.icons_2 a {
+    color: black;
+    float: left;
+    padding: 8px
+}
+.icons_2 {
+    position: absolute;
+    left: 238px;
+    top: 1158px;
+}
+.pictures {
+    text-align: center;
+    position: absolute;
+    top: 1756px;
+}
